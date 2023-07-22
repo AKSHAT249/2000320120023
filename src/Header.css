@@ -1,0 +1,23 @@
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding : 50px 50px;
+    position: sticky;
+    z-index: 100;
+    top: 0;
+    background-color: #1D5B79;
+    color: #fff;
+}
+
+.Header__input{
+    font-size: large;
+}
+
+.Header__searchIcon{
+    border: 5px solid #fff;
+    border-radius: 100%;
+    color: #fff;
+    padding: 10px;
+}
+

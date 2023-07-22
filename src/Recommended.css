@@ -1,0 +1,45 @@
+.Recommended{
+    display: flex;
+    flex-direction:column ;
+    margin: 20px 30px;
+    background-color: #468B97;
+    border-radius: 1%;
+    color: #fff
+
+
+}
+
+.Recommended__info{
+    display: flex;
+    align-items: center;
+  
+    
+}
+
+.Recommended__info:hover{
+    color: darkorange;
+}
+
+.Recommended__text:hover{
+    color: darkorange;
+}
+
+
+
+.Recommended__info > h2{
+    background-color: #461959;
+    border-radius: 10%;
+    color: #fff;
+    margin-right: 20px;
+}
+
+.Recommended__info{
+    padding-left: 10px;
+
+}
+
+.Recommended__text{
+    line-height: -1;
+    margin-left: 100px;
+    color:#fff;
+}
